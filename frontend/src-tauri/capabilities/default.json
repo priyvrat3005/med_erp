@@ -1,0 +1,7 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "Minimal capabilities. Add only what a task needs (printing, updater, fs scope).",
+  "windows": ["main"],
+  "permissions": ["core:default"]
+}
